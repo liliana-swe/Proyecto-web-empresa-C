@@ -1,3 +1,3 @@
 function saludo() {
-  prompt("Aqui hay más");
+  alert("Aqui hay más");
 }
